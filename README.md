@@ -16,6 +16,7 @@ Team Fake_news_detectives:  Gi'Anna Cheairs, Tim Carter, Vineet Duggi, Tom Clemo
 - WordCloud
 - STOPWORDS
 - Hugging Face
+- Whisper
 
 ### Installing
 
