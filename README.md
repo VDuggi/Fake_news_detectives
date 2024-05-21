@@ -106,7 +106,7 @@ Team Fake_news_detectives:  Gi'Anna Cheairs, Tim Carter, Vineet Duggi, Tom Clemo
   - Created a new column for ‘sentiment’ and added column on to the database
   - Split DataFrame into 2 dataframes; real & fake. Generated sentiment for each.
 
-- Gradio - User Ingterface
+- Gradio - User Interface
   - Uses Hugging Face library
   - Lots of libraries imported
   - Use pickle to restore models - PAC & TF-IDF
